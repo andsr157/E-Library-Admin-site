@@ -20,6 +20,7 @@
                     <th>:</th>
                     <td>
                         <input type="text" name="kode" id="kode">
+                        <?= form_error('kode','<small class="text-danger pl-3">','</small>'); ?>
                     </td>
                 </tr>
                 <tr>
@@ -27,6 +28,7 @@
                         <td>:</td>
                         <td>
                             <input type="text" name="nama" id="nama">
+                            <?= form_error('kode','<small class="text-danger pl-3">','</small>'); ?>
                         </td>
                 </tr>
                 <tr>
