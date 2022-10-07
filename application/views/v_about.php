@@ -9,7 +9,7 @@
         <br>
         <h4>Alamat</h4>
         <ul type="none">
-        <li> Jalan Tentara Pelajar 14 Jombor</li>
+        <li> Jalan Tentara Pelajar 14 Joaambor</li>
     </ul>
     <h4>Tempat Lahir</h4>
     <ul type="none">
