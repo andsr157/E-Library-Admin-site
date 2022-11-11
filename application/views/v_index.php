@@ -2,14 +2,14 @@
     <h1><?php echo $judul ?></h1>
     <p align='justify'>
         Pada pengertian codeigniter di atas
-        tadi di jelaskan bahwa codeigniter menggunakan metode MVC. Apa itu  
+        tadi di jelaskan bahwa codeigniter menggunakan metode MVC. Apa itu
         MVC? Kita juga harus mengetahui apa itu MVC sebelum masuk dan lebih
         jauh dalam belajar codeigniter.
     </p>
     <p>
         MVC adalah teknik atau konsep yang memisahkan
-    komponen utama menjadi tiga komponen yaitu model, view dan
-    controller.
+        komponen utama menjadi tiga komponen yaitu model, view dan
+        controller.
     </p>
     <ol type=”a”>
         <li>Model</li>
@@ -46,7 +46,7 @@
             intruksi.
         </p>
         <p align='justify'>
-                Dari penjelasan tentang model view dan controller
+            Dari penjelasan tentang model view dan controller
             di atas dapat di simpulkan bahwa controller sebagai penghubung view
             dan model. Misalnya pada aplikasi yang menampilkan data dengan
             menggunakan metode konsep mvc, controller memanggil intruksi pada
